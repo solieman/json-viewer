@@ -1,0 +1,55 @@
+{
+    "Name": "Soliman ElSaber",
+    "Position": "Senior Software Engineer",
+    "Location": "Kuala Lumpur",
+    "Education": {
+    	"MSc": {
+    		"Subject":"Information Technology",
+    		"Source":"The University of Nottinghame"
+    	},
+    	"Diploma": {
+    		"Subject":"eLearning",
+    		"Source":"ITI - Egypt"
+    	},
+    	"BSc": {
+    		"Subject":"Compuer Science",
+    		"Source":"Zagazig University - Egypt"
+    	}
+    },
+    "Work Experience": {
+        "Malaysia": {
+            "Company": "Capital DK",
+            "Location": "Kuala Lumpur",
+            "Start": "July 2016",
+            "End": "-"
+        },
+        "Saudi Arabia": {
+            "Company": "Naseej",
+            "Location": "Mecca",
+            "Start": "December 2013",
+            "End": "December 2015"
+        },
+        "Egypt": {
+            "M-BIZ Global": {
+                "Company": "M-BIZ Global",
+                "Location": "Cairo",
+                "Start": "November 2012",
+                "End": "November 2013"
+            },
+            "MGD": {
+                "Company": "MGD",
+                "Location": "Cairo",
+                "Start": "March 2010",
+                "End": "November 2012"
+            },
+            "MarefaTech": {
+                "Company": "MarefaTech",
+                "Location": "Mansoura",
+                "Start": "September 2009",
+                "End": "March 2010"
+            }
+        }
+        
+    }
+
+}
