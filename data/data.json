@@ -18,10 +18,18 @@
     },
     "Work Experience": {
         "Malaysia": {
-            "Company": "Capital DK",
-            "Location": "Kuala Lumpur",
-            "Start": "July 2016",
-            "End": "-"
+            "The MindValley": {
+                "Company": "The MindValley",
+                "Location": "Kuala Lumpur",
+                "Start": "Septemper 2018",
+                "End": "-"
+            },
+            "Capital DK": {
+                "Company": "Capital DK",
+                "Location": "Kuala Lumpur",
+                "Start": "July 2016",
+                "End": "July 2018"
+            }
         },
         "Saudi Arabia": {
             "Company": "Naseej",
